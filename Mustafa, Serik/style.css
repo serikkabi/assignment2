@@ -1,0 +1,90 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+body {
+  background-color: rgb(355, 855, 208);
+}
+.logo {
+    float: left;
+    height: 10px;
+
+}
+.navin a {
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 33px;
+    border-radius: 100px;
+}
+.fsection {
+    background-image: url("Back.jpg");
+    border-radius: 100px;
+    margin-right: 25px;
+    margin-left: 25px;
+    height: 500px;
+    text-align: center;
+    margin-bottom: 45px;
+    margin-top: 45px;
+}
+.fsection h1 {
+    font-size: 100px;
+    margin-top: 40px;
+    color: whitesmoke;
+}
+.fsection p {
+    font-size: 100px;
+    margin-top: 40px;
+    color: whitesmoke;
+}
+.footer {
+    margin-bottom: 0px;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+table {
+    margin-top: 45px;
+    background-color: #fff;
+    width: 96%;
+    margin-right: 35px;
+    margin-left: 35px;
+    font-size: 50px;
+    border-radius: 100px;
+    margin-bottom: 45px;
+}
+.lsection {
+    background-image: url("lsection.jpg");
+    border-radius: 100px;
+    margin-right: 25px;
+    margin-left: 25px;
+    height: 850px;
+    text-align: center;
+    margin-bottom: 45px;
+    margin-top: 45px;
+}
+.lsection p {
+    font-size: 60px;
+    margin-top: 40px;
+    color: whitesmoke;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+form {
+    margin: 0 auto;
+    text-align: center;
+}
+label {
+    font-size: 50px;
+    color: rgb(59, 59, 59);
+}
+.callout {
+.callout-info
+  border-left-color: #5bc0de;
+.callout-warning
+  border-left-color: #f0ad4e;
+.callout-danger
+  border-left-color: #d9534f;
+}
